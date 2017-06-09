@@ -1,0 +1,11 @@
+{
+    "connection": {
+        "user": "ECM",
+        "password": "P@ssw0rd",
+        "server": "TEO-HAMID",
+        "database": "HLJ_ExformaticsDB",
+        "options": {
+            "encrypt": "false"
+        }
+    }
+}
